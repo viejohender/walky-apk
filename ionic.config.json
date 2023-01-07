@@ -1,0 +1,7 @@
+{
+  "name": "walky-apk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
